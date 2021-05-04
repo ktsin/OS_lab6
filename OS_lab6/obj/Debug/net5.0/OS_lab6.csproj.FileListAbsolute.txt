@@ -1,0 +1,16 @@
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/bin/Debug/net5.0/OS_lab6
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/bin/Debug/net5.0/OS_lab6.deps.json
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/bin/Debug/net5.0/OS_lab6.runtimeconfig.json
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/bin/Debug/net5.0/OS_lab6.runtimeconfig.dev.json
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/bin/Debug/net5.0/OS_lab6.dll
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/bin/Debug/net5.0/ref/OS_lab6.dll
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/bin/Debug/net5.0/OS_lab6.pdb
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/obj/Debug/net5.0/OS_lab6.csprojAssemblyReference.cache
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/obj/Debug/net5.0/OS_lab6.GeneratedMSBuildEditorConfig.editorconfig
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/obj/Debug/net5.0/OS_lab6.AssemblyInfoInputs.cache
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/obj/Debug/net5.0/OS_lab6.AssemblyInfo.cs
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/obj/Debug/net5.0/OS_lab6.csproj.CoreCompileInputs.cache
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/obj/Debug/net5.0/OS_lab6.dll
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/obj/Debug/net5.0/ref/OS_lab6.dll
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/obj/Debug/net5.0/OS_lab6.pdb
+/home/ktsin/RiderProjects/OS_lab6/OS_lab6/obj/Debug/net5.0/OS_lab6.genruntimeconfig.cache
