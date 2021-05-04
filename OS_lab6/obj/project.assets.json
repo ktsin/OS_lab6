@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/ktsin/.nuget/packages/": {}
+    "C:\\Users\\kazyt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ktsin/RiderProjects/OS_lab6/OS_lab6/OS_lab6.csproj",
+      "projectUniqueName": "C:\\Users\\kazyt\\Source\\Repos\\ktsin\\OS_lab6\\OS_lab6\\OS_lab6.csproj",
       "projectName": "OS_lab6",
-      "projectPath": "/home/ktsin/RiderProjects/OS_lab6/OS_lab6/OS_lab6.csproj",
-      "packagesPath": "/home/ktsin/.nuget/packages/",
-      "outputPath": "/home/ktsin/RiderProjects/OS_lab6/OS_lab6/obj/",
+      "projectPath": "C:\\Users\\kazyt\\Source\\Repos\\ktsin\\OS_lab6\\OS_lab6\\OS_lab6.csproj",
+      "packagesPath": "C:\\Users\\kazyt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kazyt\\Source\\Repos\\ktsin\\OS_lab6\\OS_lab6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ktsin/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kazyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
